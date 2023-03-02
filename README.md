@@ -1,4 +1,4 @@
-# change-colors
+# Tema Claro/ Tema Escuro
 
 Tecnologias usadas:
 - vite
